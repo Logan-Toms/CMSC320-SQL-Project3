@@ -1,0 +1,11 @@
+DROP TABLE MovieDirectorAssociation;
+DROP TABLE ActorMovieAssociation;
+DROP TABLE AcademyAward;
+DROP TABLE Director;
+DROP TABLE ActorActress;
+DROP TABLE RentalTransaction;
+DROP TABLE Customer;
+DROP TABLE Inventory;
+DROP TABLE Distributor;
+DROP TABLE Format;
+DROP TABLE Movie;
