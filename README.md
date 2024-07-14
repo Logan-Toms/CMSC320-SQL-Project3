@@ -1,7 +1,7 @@
 # CMSC320-SQL-Project3
 
 ## Overview
-This repository contains SQL scripts developed as part of my college coursework. The project demonstrates my proficiency in SQL and my ability to design, manage, and query databases. This coursework is part of my CMSC 320 Relational Database Concepts and Applications class at the University of Maryland Global Campus.
+This repository contains SQL scripts developed as part of my college coursework. The project demonstrates my proficiency in SQL and my ability to design, manage, and query databases. This coursework is part of my  Relational Database Concepts and Applications (CMSC 320) class at the University of Maryland Global Campus.
 
 ## Table of Contents
 1. [Project Purpose](#project-purpose)
